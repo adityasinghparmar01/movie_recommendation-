@@ -7,7 +7,7 @@ import streamlit as st
 # =============================
 # Backend - API - Render
 # Frontend - UI - Streamlit
-API_BASE = "https://movie-recommendation-1-zazm.onrender.com" or "http://127.0.0.1:8000"   # this is th elink from backend -> render or your local backend  whicch is created when you deploy your git hub rep on render.com
+API_BASE = "https://movie-recommendation-1-0qxa.onrender.com" or "http://127.0.0.1:8000"   # this is th elink from backend -> render or your local backend  whicch is created when you deploy your git hub rep on render.com
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 
 st.set_page_config(page_title="Movie Recommender", page_icon="🎬", layout="wide")
